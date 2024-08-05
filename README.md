@@ -1,7 +1,8 @@
 # Sample Intro Section Using React
 
 ```text
-Developed using React and TailwindCSS```
+Developed using React and TailwindCSS
+```
 
 ![alt text](<intro-section desktop final.png>)
 
